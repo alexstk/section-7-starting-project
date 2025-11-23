@@ -1,4 +1,4 @@
-name: Website Deployment Continue
+name: Continue on Error
 on:
   push:
     branches:
